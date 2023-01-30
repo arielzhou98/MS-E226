@@ -1,2 +1,1 @@
-"# MS-E226" 
-"# MS-E226" 
+# MS&E 226 Project Repository
